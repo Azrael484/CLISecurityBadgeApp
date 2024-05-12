@@ -20,3 +20,4 @@ C:\Users\Jonathan\CatWorx.BadgeMaker\bin\Debug\net8.0\runtimes\win-x86\native\li
 C:\Users\Jonathan\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
 C:\Users\Jonathan\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx..0543816E.Up2Date
 C:\Users\Jonathan\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.sourcelink.json
+C:\Users\Jonathan\CatWorx.BadgeMaker\bin\Debug\net8.0\Newtonsoft.Json.dll
